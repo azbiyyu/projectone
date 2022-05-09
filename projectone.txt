@@ -1,5 +1,4 @@
 projectone 
 - perlahan menjadi sebuah gebrakan
-- berjalan menuju terdepan
-- make good platform 
+- berjalan menuju terdepan 
 - collab with friends
