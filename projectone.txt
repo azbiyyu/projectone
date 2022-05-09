@@ -2,3 +2,4 @@ projectone
 - perlahan menjadi sebuah gebrakan
 - berjalan menuju terdepan
 - make good platform 
+- collab with friends
